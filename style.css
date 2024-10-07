@@ -1,0 +1,43 @@
+h2 {
+    padding: 0px;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+.st-emotion-cache-13ln4jf {
+    width: 100%;
+     padding: 20px 6rem 2rem;
+    max-width: 100rem;
+    text-align: center;
+/*    padding-top: 20px;
+    padding-left: 6rem;
+    padding-right: 6rem;*/
+}
+
+.st-emotion-cache-ocqkz7 {
+    gap: 5px;
+}
+
+.st-emotion-cache-wjnws3 {
+    gap: 2px;
+}
+
+.st-emotion-cache-aoyl2m {
+    margin-top: 0.25rem;
+    margib-bottom: 0px
+}
+
+.st-emotion-cache-5y2b8l {
+    margin: 0px;
+    padding : 0px;
+}
+
+@media(max-width : 700px){
+    .st-emotion-cache-13ln4jf{
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    }
+}
